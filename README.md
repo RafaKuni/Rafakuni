@@ -1,9 +1,6 @@
 # Olá! Seja bem vindo ao meu perfil! 👋 
 
 
-Português (BR): <br>
-
-
 Sobre mim:
 - 😃 Tenho 19 anos
 - 🏠 Moro em São Paulo
