@@ -20,3 +20,4 @@ Sobre mim:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rafakuni&repo=ILP-540-Projeto-I&theme=dracula)](https://github.com/RafaKuni/ILP-540-Projeto-I)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rafakuni&repo=Tik-Tok-Project&theme=dracula)](https://github.com/RafaKuni/Tik-Tok-Project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rafakuni&repo=Site-Menu-Estilizado&theme=dracula)](https://github.com/RafaKuni/Site-Menu-Estilizado)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rafakuni&repo=Sistema-de-Amortizacao-Constante&theme=dracula)
