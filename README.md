@@ -2,7 +2,7 @@
 
 
 Sobre mim:
-- 😃 Tenho 19 anos
+- 😃 Tenho 20 anos
 - 🏠 Moro em São Paulo
 - ✏️ Atualmente eu estudo na Fatec-SP
 - 🌱 Apaixonado por Design, estudo bastante HTML, CSS, Javascript, e busco sempre aprender novas linguagens
