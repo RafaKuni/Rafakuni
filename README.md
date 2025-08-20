@@ -2,10 +2,10 @@
 
 
 Sobre mim:
-- 😃 Tenho 20 anos
+- 😃 Tenho 21 anos
 - 🏠 Moro em São Paulo
-- ✏️ Atualmente eu estudo na Fatec-SP
-- 🌱 Apaixonado por Design, estudo bastante HTML, CSS, Javascript, e busco sempre aprender novas linguagens
+- ✏️ Atualmente graduado em Análise e Desenvolvimento de Sistemas!
+- 🌱 Trabalhando com Consultoria Técnica (Fi Group)
 - ⚔️ Adoro Videogames
 
 # Meu GitHub
